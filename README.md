@@ -1,46 +1,55 @@
-# 👋 Olá, Mundo! Eu sou **Ezequiel dos Santos**  
+# 👋 Olá, Mundo! Eu sou **Ezequiel dos Santos**
 
-🌟 *"Transformando café em código e desafios em aprendizado."*  
+🌟 *Transformando café em código e desafios em aprendizado.*
 
-Sou um estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante evolução. Dedico meu dia a dia para explorar o mundo da programação e criar soluções criativas para problemas do mundo real.  
-
----
-
-## 🚀 **Habilidades em constante evolução**  
-💻 **Front-End**  
-- HTML, CSS (com Bootstrap), JavaScript  
-- Frameworks como React  
-
-🗄️ **Back-End & Banco de Dados**  
-- Java  
-- Modelagem de Dados  
-- MySQL Workbench  
-
-🛠️ **Ferramentas & Softwares**  
-- Git/GitHub  
-- Figma (Design e prototipação)  
-- VS Code  
+Sou estudante do **4º semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e construindo soluções que fazem diferença.
 
 ---
 
-## 📚 **Por que acompanhar meu trabalho?**  
-🎯 Estou em busca de oportunidades na área de **programação** e me dedicando a construir projetos que resolvam problemas reais.  
-📈 Estudo **programação diariamente** para me tornar um desenvolvedor cada vez mais completo.  
+## 🚀 Habilidades Técnicas
+
+### Front-End
+- ReactJS, React Native, JavaScript, HTML5, CSS3
+
+### Back-End & Python
+- Python (scripts, automações), integração com APIs REST
+
+### Banco de Dados
+- MySQL, SQL Server, modelagem de dados
+
+### Ferramentas & Metodologias
+- Git, GitHub, Vite, Figma, Notion, Trello
+- Scrum, Kanban, testes básicos
 
 ---
 
-## 💡 **Fatos aleatórios sobre mim:**  
-- 🖥️ Meu foco atual é me especializar em **desenvolvimento fullstack**.  
-- ☕ Eu provavelmente estou codando agora com uma caneca de café ao lado.  
-- 🚀 Um dos meus sonhos é contribuir para projetos open source e ajudar a comunidade tech a crescer.  
+## 💻 Projetos em destaque
+
+- **Controle de Feedbacks** – CRUD em PHP + MySQL, painel administrativo
+- **Onde Assistir?** – App em React Native com TMDB API, favoritos
+- **Gerador de Senhas** – React Native, personalização de segurança
+- **YouTube Music Desktop** – Protótipo em Python com interface gráfica
 
 ---
 
-## 📬 **Vamos conversar?** 
-💼 [Meu LinkedIn](https://www.linkedin.com/in/ezequiel-dos-santos-1478b4206)  
-💻 [Meu GitHub](https://github.com/zacksc)  
+## 📈 Minhas estatísticas no GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksc&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacksc&layout=compact&theme=radical)
 
 ---
 
-### **Seja bem-vindo ao meu universo de códigos! 🌌**  
-Se gostou do que viu, não esqueça de deixar uma ⭐ nos projetos. Vamos construir juntos o futuro da tecnologia! 🚀  
+## 🌐 Visitas ao Github
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=zacksc.zacksc)
+
+---
+
+## 📫 Vamos conversar?
+
+- 📨 [LinkedIn](https://www.linkedin.com/in/ezequiel-dos-santos-ti/)  
+- 📂 Portfólio: https://zacksc-portfolio.vercel.app/
+
+---
+
+### ⭐ Se gostou dos projetos, deixe uma estrela e bora construir o futuro da tecnologia juntos! 🚀
